@@ -66,7 +66,6 @@ def plot(x_arrays, y_arrays):
     plt.axis('off')
     plt.show()
 
-
 if __name__ == '__main__':
       n = 500000 #Number of steps
       num_w = 3 #Number of walks
