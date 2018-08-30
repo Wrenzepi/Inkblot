@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 '''
 Author: David Kohler
-inkblots.py
+inkblots_mpl.py
 '''
 
 import numpy as np
