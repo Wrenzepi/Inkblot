@@ -70,6 +70,5 @@ if __name__ == '__main__':
       n = 500000 #Number of steps
       num_w = 3 #Number of walks
 
-      for i in range(0, 9):
-          x_arrays, y_arrays = generate_trace(n, num_w)
-          plot(x_arrays, y_arrays)
+      x_arrays, y_arrays = generate_trace(n, num_w)
+      plot(x_arrays, y_arrays)
