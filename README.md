@@ -1,4 +1,4 @@
-# Inkplot Generator
+# Inkblot Generator
 
 Inkblot generator made by David Kohler, designed for Python 3.6. Allows user to randomly create inkblot cards using the concept of random walks to create the visualizations. Idea based on Rorschach Inkblot tests
 
